@@ -1,0 +1,37 @@
+{
+  "uuid": "ca3023ff-dc97-467b-a161-f7ae32fe29e0",
+  "shortName": "Impetus",
+  "longName": "Impetus",
+  "companyName": "Harri Ohra-aho",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_ICON_APP",
+        "file": "images/app.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BUTTON_PLAY",
+        "file": "images/play.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BUTTON_PAUSE",
+        "file": "images/pause.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BUTTON_RESET",
+        "file": "images/reset.png"
+      }
+    ]
+  }
+}
